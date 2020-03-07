@@ -8,7 +8,9 @@
 // ==/UserScript==
 
 (function() {
+    
     'use strict';
+
       Init();
 
     function  Init()
