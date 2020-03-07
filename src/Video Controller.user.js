@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Video Controller
 // @namespace    https://github.com/maidouofgithub
-// @version      0.0.1
+// @version      0.0.2
 // @description  切换上下剧集(switch Chinese/English language in MSDN)
 // @author       landwind
 // @match        https://*.pmys6.com/*
