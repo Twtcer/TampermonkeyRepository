@@ -5,6 +5,7 @@
 // @description  切换上下剧集(switch Chinese/English language in MSDN)
 // @author       landwind
 // @match        https://*.pmys6.com/*
+// @icon         https://v.qq.com/favicon.ico
 // ==/UserScript==
 
 (function() {
